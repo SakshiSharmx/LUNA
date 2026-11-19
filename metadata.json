@@ -1,0 +1,6 @@
+{
+  "name": "LUNA",
+  "description": "Women's Wellness & Cycle Journal – Track your cycle, log daily mood & symptoms, and write reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
